@@ -1,13 +1,13 @@
 # Simple Calculator Web App
 
-A simple, responsive web-based calculator built using **HTML**, **CSS**, and **JavaScript**. This calculator can perform basic arithmetic operations like addition, subtraction, multiplication, and division. It features a clean and modern UI, making it an excellent example of a front-end project for practice and portfolio.
+A simple, responsive web-based calculator built using HTML, CSS, and JavaScript. This calculator can perform basic arithmetic operations like addition, subtraction, multiplication, and division. It features a clean and modern UI, making it an excellent example of a front-end project for practice and portfolio.
 
 ## Features
 
 - **Basic Arithmetic Operations**: Perform addition, subtraction, multiplication, and division.
 - **Responsive Design**: The design adapts to different screen sizes, ensuring usability on both desktop and mobile devices.
 - **Clear Button**: Resets all input and output, allowing you to start a new calculation.
-- **Modern UI**: Sleek, modern interface using **CSS Grid**, **Flexbox**, and custom button styles.
+- **Modern UI**: Sleek, modern interface using CSS Grid, Flexbox and custom button styles.
 - **Interactive**: Buttons respond to clicks and offer smooth visual feedback.
 
 ## Technologies Used
